@@ -11,7 +11,7 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
   darkMode: false,
   disabledWebShortcuts: false,
   activationShortcut: '',
-  userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/31.0.1650.18 Mobile/11B554a Safari/8536.25,
+  userAgent: ,
   showSystemTray: false,
   multiArch: false,
   targets: 'deb',
